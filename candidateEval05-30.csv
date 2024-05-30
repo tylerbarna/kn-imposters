@@ -1,0 +1,191 @@
+Object,Classification,Captures rise in g,captures fade in g,Captures rise in r,captures fade in r,Has i band?,ztfg rise min/max,ztfg fade min/max,ztfr rise min/max,ztfr fade min/max,ztfi rise min/max,ztfi fade min/max,usable? (0-5),Misc Notes
+ZTF18aakuewf,,n,y,y,y,n,,58225-58240,58225-58230,58230-58250,,,4,
+ZTF18aalrxas,,y,y,n,n,n,,,,,,,3,lowish quality ztfr
+ZTF18abantmh,,n,n,n,n,n,,,,,,,0,low quality
+ZTF18abffyqp,,n,m,n,m,n,,,,,,,1,no peak
+ZTF18abvkmgw,,y,y,n,n,n,,,,,,,3,decent g
+ZTF18abwkrbl,,y,y,m,y,n,,,,,,,3,only a couple of rise points
+ZTF19aanbpus,IIb,y,y,y,y,y,,,,,,,3,weird first r point
+ZTF19aaojovs,,n,n,y,y,n,,,,,,,3,only r really
+ZTF19aapfmki,,m,y,y,y,n,58582-58587,58586-58610,58580-58587,58587-58600,,,4,can get peak from r
+ZTF19aatesgp,,n,y,m,y,y,,58610-58620,58600-58610,58605-58630,,,4,color gap
+ZTF19aatoboa,,m,y,n,m,n,,,,,,,3,not much data
+ZTF19abacxod,,y,y,y,y,y,58655-58670,58670-58680,58660-58675,58670-58685,58655-58675,,4,weird first g point; has color gap
+ZTF19abfarpa,,y,n,n,n,n,,,,,,,3,reallly only rise in g
+ZTF19abxjrge,IIb,y,y,y,n,n,58733-58750,58750-58760,58735-58750,,,,4,weird first data point for g and r
+ZTF19abxtcio,,m,y,y,y,n,,,,,,,3,weird first data point for g; r rise captured better
+ZTF19abyjzvd,,y,y,y,n,n,58730-58740,58740-58750,58730-58741,58740-58747,,,4,good rise observations; alright fade in g
+ZTF19acbumks,,y,y,y,y,y,,,,,,,2,3 data points for each band
+ZTF19accjfgv,,n,y,n,y,n,,,,,,,3,no peak
+ZTF19acsakuv,,n,y,n,n,n,,,,,,,3,no peak; weird r observations
+ZTF20aahfqpm,,n,y,n,y,y,,58870-58875,,58870-58875,,58870-58875,4,no peak; fade in all bands
+ZTF20aaivtof,,n,y,n,y,n,,,,,,,3,little g data; weird spike in r
+ZTF20aajnksq,,n,n,m,m,n,,,,,,,2,single night of observation in r; could meet rise/fade requirement
+ZTF20aakqxsq,,m,m,n,n,n,,,,,,,2,single night of observation in g; could meet rise/fade requirement
+ZTF20aakypiu,,y,y,y,y,y,58875-58882,58880-58885,58875-58882,58880-58885,58875-58882,58880-58885,5,good rise and fade observations in all bands
+ZTF20aamsouh,,n,n,n,m,n,,,,,,,2,only 3 observations in r for fade
+ZTF20aaxhzhc,,n,y,m,y,y,,58970-58980,58965-58973,58970-58980,58965-58975,58970-58985,4,potential peak; but only one data point in each before then
+ZTF20aayrobw,,y,y,n,y,n,,,,,,,3,handful of points in g
+ZTF20aazchcq,,m,y,y,y,y,,,,,,,3,handful of data points
+ZTF20abmvjda,,n,n,n,n,n,,,,,,,0,no observations
+ZTF20abstsxb,Ia,y,m,y,y,n,,,,,,,3,weird data
+ZTF20abtxwfx,GRB,n,n,n,n,n,,,,,,,0,no data
+ZTF20abummyz,,n,n,n,n,n,,,,,,,0,no data
+ZTF20aburywx,,n,y,n,m,n,,,,,,,2,may have peak in g; few data points
+ZTF20abwysqy,,n,m,n,n,n,,59085-59090,,,,,5,should have more data
+ZTF20abwzqzo,,m,y,y,y,n,59090-59100,59105-59115,59090-59105,59103-59120,,,4,lots of altas and sdss data; r observations are better than g
+ZTF20abxrugr,,n,y,n,m,n,,,,,,,3,decent fade in g
+ZTF20acgigfo,Novae;Novae;Novae,n,y,m,y,n,,59125-59145,59120-59128,59127-59145,,,4,decent fade in g
+ZTF20acgiglu,,y,y,y,y,n,59125-59145,59143-59155,59125-59145,59150-59160,,,4,slow rise/fade in r; alright in g
+ZTF20achedzl,,n,n,n,n,n,,,,,,,0,no data
+ZTF20acigusw,,n,y,n,m,n,,,,,,,3,decent fade in g
+ZTF20aclfmwn,,n,y,m,m,n,,59140-59145,59140-59144,59143-59150,,,4,decent fade in g; weird spike in r
+ZTF20acozryr,GRB,n,y,n,y,n,,59155-59160,,59155-59160,,,4,fade data points
+ZTF20acpjgkt,,n,n,n,n,n,,,,,,,0,low quality
+ZTF20acpkefi,,y,y,y,y,n,,,,,,,2,slow rise/fade
+ZTF20acpuwbf,,y,y,y,y,n,,,,,,,3,okay rise/fade
+ZTF20acqehqq,,n,n,n,n,n,,,,,,,0,no data
+ZTF20acqirkw,,n,y,n,y,y,,,,,,,3,mostly just fade; some wierd data points
+ZTF20acqntkr,Ia;Ia,n,n,n,n,n,,,,,,,0,no data
+ZTF20actbebh,orphan,n,n,n,y,n,,,,,,,3,some fade in r
+ZTF20actoqra,,n,y,n,y,n,,,,,,,3,fade data
+ZTF20actqnhg,,y,y,y,m,y,59185-59200,59198-59210,59180-59200,59198-59210,,,4,very well observed; but might be slow
+ZTF20acutkgr,,m,m,m,m,m,,,,,,,3,maybe can get peak; only 3 points in g and r
+ZTF20acwbcsj,,n,m,n,m,n,,,,,,,2,potential fade
+ZTF20acxooqk,,n,n,m,m,n,,,,,,,2,noisy r data
+ZTF20acxouxk,,n,y,n,y,n,,59195-59210,,59195-59210,,,4,decent fade in both
+ZTF20acylyct,,n,n,n,y,n,,,,,,,3,decent fade in r
+ZTF21aaabrpu,,y,n,y,n,y,59217-59235,,59217-59235,,59217-59235,,4,weird first data point for g; potentially slow rise/fade
+ZTF21aaabwfu,,n,m,m,m,y,,,,,,,2,weird shape; kind of a mild hump over the course of 30 days
+ZTF21aaafmhn,,n,m,n,m,n,,,,,,,3,really noisy fade in r
+ZTF21aaarlbp,Novae;Novae,n,y,n,y,n,,,,,,,3,some fade in both
+ZTF21aabtdut,,n,n,n,n,n,,,,,,,0,no data
+ZTF21aabxjqr,IIb;IIb,m,y,m,y,n,,,,,,,4,weird secondary peak; dip likely real given preponderance of filters
+ZTF21aacngji,,n,m,n,m,n,,,,,,,1,weird offset in fade between filters
+ZTF21aacwrno,,m,n,m,n,n,,,,,,,1,2 rise points then plateau
+ZTF21aacxlgf,,n,y,n,y,n,,59225-59235,,59225-59235,,,4,good fade
+ZTF21aaczajl,,n,y,n,y,n,,,,,,,3,slow-ish fade
+ZTF21aaeyldq,afterglow,n,n,m,m,n,,,,,,,3,2 data points in r on same night
+ZTF21aagmecm,,n,m,m,y,n,,,,,,,3,more r observations
+ZTF21aagwbjr,long GRB,n,n,n,y,n,,,,,,,3,rapid fade in r
+ZTF21aahifke,,m,n,n,n,n,,,,,,,2,2 rise points in g
+ZTF21aahjuct,,n,y,n,y,n,,,,,,,3,decent fade
+ZTF21aaiblte,,n,m,m,m,y,,,,,,,2,weird rise in r during fade in g
+ZTF21aaidofu,,n,m,n,m,n,,,,,,,2,potential fade in r; low quality
+ZTF21aaivnap,,y,y,y,m,y,,,,,,,3,odd second peak in r
+ZTF21aajzfoq,,n,y,n,y,n,,59255-59270,,59255-59270,,,4,good fade; no peak
+ZTF21aapkbav,IIb;Type II,n,m,m,y,y,,59290-59295,,59290-59295,,,4,interesting feature in r second peak
+ZTF21aaquyjp,,n,n,n,y,n,,,,,,,3,good fade in r
+ZTF21aaqzrat,U Gem,y,y,y,y,y,,,,,,,3,odd duration of peak
+ZTF21aareeit,,m,y,n,m,n,,,,,,,3,better fade in g
+ZTF21aavqior,,n,y,n,y,n,,,,,,,3,fades by 4 mags in 30 days
+ZTF21abbvvmf,Type II;IIb;Type II,n,n,n,n,n,,,,,,,0,no data
+ZTF21abdpqpq,,n,n,n,m,n,,,,,,,1,weird lightcurve
+ZTF21abexegc,,n,y,n,y,n,,,,,,,3,rapid fade
+ZTF21abfmpwn,afterglow,n,y,n,y,n,,,,,,,3,rapid fade 
+ZTF21abhjssj,,n,y,n,y,n,,,,,,,3,okay fade
+ZTF21abhywxv,Ib/c;Ib-pec,m,y,n,y,n,,,,,,,3,potential peak in g; fade in sdss filters too
+ZTF21abinaiu,,n,m,n,n,n,,,,,,,1,low quality
+ZTF21abkkcev,,n,m,m,y,n,,,,,,,2,low-ish quality
+ZTF21abturbi,,n,y,n,y,n,,59440-59450,,59440-59445,,,4,rapid fade
+ZTF21abuysnl,,n,y,n,y,n,,59450-59455,,59450-59455,,,4,rapid fade
+ZTF21abvczhr,,n,y,n,y,n,,,,,,,3,okay fade
+ZTF21abvierr,,n,y,n,y,n,,,,,,,3,okay fade
+ZTF21abwpwmg,,m,m,m,m,y,,,,,,,2,weird shape; g peak seems earlier than r and i
+ZTF21accyvib,,y,m,m,y,n,,,,,,,3,rapid rise in g; moderate fade in r
+ZTF21accyynu,,y,y,n,y,n,59475-59477,59477-59490,,59475-59490,,,4,rapid rise in g; moderate fade in g and r
+ZTF21aciosfu,,n,y,n,y,n,,59505-59525,,59505-59525,,,4,moderate fade
+ZTF21acnjzwy,,n,y,n,y,y,,59525-59545,,59525-59545,,59530-59545,4,moderate fade
+ZTF22aaajecp,Tidal Disruption Event,y,m,y,y,n,59620-59623,59623-59625,59620-59623,59623-59625,,,4,rapid rise; slow fade
+ZTF22aaazhbd,,n,y,n,y,n,,59625-59631,,59625-59630,,,4,rapid fade
+ZTF22aaazmxq,Novae;Classical Nova,n,y,n,n,n,,,,,,,3,rapid fade in g
+ZTF22aabjpxh,long GRB,n,n,n,y,n,,,,,,,3,rapid fade in r
+ZTF22aabvdtc,,n,n,n,y,y,,,,59635-59645,,59635-59640,4,decent fade in r and i
+ZTF22aafevvf,,m,n,m,n,n,,,,,,,1,very slow rise
+ZTF22aahgvlx,IIb;IIb,n,y,n,y,n,,59690-59700,,59690-59700,,,4,double peak again
+ZTF22aahyqon,,n,y,n,m,n,,,,,,,3,rapid fade
+ZTF22aaibbvy,Cataclysmic,n,y,n,y,n,,,,,,,3,moderate fade
+ZTF22aaigbnr,,n,y,n,y,y,,59695-59705,,59695-59705,,,4,rapid fade
+ZTF22aailsqb,,n,n,m,m,n,,,,,,,2,weird data in r
+ZTF22aajkkwd,,m,y,y,y,n,,59710-59720,59705-59708,59707-59715,,,4,rapid rise and fade
+ZTF22aajrrzz,Ia;Ia,y,y,y,y,y,59710-59720,59720-59735,59710-59720,59720-59740,,,5,should drop atlas
+ZTF22aakhkoc,,n,n,n,m,n,,,,,,,2,weird data
+ZTF22aanbmvf,,n,n,y,y,n,,,59735-59738,59737-59745,,,4,rapid rise and fade in r
+ZTF22aapgcak,,n,m,n,m,n,,,,,,,3,2 fade points in g and r
+ZTF22aayluxo,,y,y,y,y,n,59790-59800,59795-59810,59790-59798,59795-59800,,,4,rise and fade; only 3 data points
+ZTF22aazmooy,Novae;Classical Nova,n,y,n,y,y,,59800-59815,,59800-59815,,59800-59815,4,good fade in g r and i
+ZTF22abaowkz,,n,y,n,y,n,,59805-59825,,59805-59825,,,4,good fade in g and r
+ZTF22abbjzmp,,n,n,n,y,n,,,,,,,3,2 data points but rapid r fade
+ZTF22abdwekt,,n,y,n,n,n,,,,,,,3,2 data points but rapid g fade
+ZTF22abfjnpj,Cataclysmic,y,y,y,y,y,,,,,,,3,potential rapid rise but slow fade
+ZTF22abfxmpc,Novae;Classical Nova,m,y,n,y,y,,59840-59845,,59840-59850,,59840-59850,4,decent fade
+ZTF22abgaqwq,,n,y,n,n,n,,,,,,,3,2 data points but rapid g fade
+ZTF22abgnxir,,n,y,n,n,n,,,,,,,3,2 data points but rapid g fade
+ZTF22abgtqpb,,n,n,n,y,n,,,,,,,3,rapid-ish r fade
+ZTF22abijszk,,n,n,n,y,n,,,,,,,3,rapid-ish r fade
+ZTF22abjibjf,,n,y,n,y,n,,,,,,,3,rapid fade
+ZTF22abjmsuh,,n,y,n,y,n,,,,,,,3,somewhat slow fade
+ZTF22abmsaxp,Type II;Type II,y,y,y,y,y,,,,,,,1,plateau 
+ZTF22abntkbk,,n,y,n,n,n,,59870-59875,,,,,4,rapid fade in g
+ZTF22abpxhnj,,n,n,n,y,n,,,,,,,1,slow fade
+ZTF22absxjze,,n,n,n,y,n,,,,,,,3,rapid fade then weird rise in last data point
+ZTF22abtonmb,,y,m,y,y,n,59890-59900,59904-59910,59895-59908,59908-59910,,,5,rapid rise and fade
+ZTF22abtonxt,,n,n,n,n,n,,,,,,,0,no data
+ZTF22abtopmq,,n,n,n,y,n,,,,,,,3,rapid fade then weird rise in last data point
+ZTF22abuzpzz,,n,y,n,y,n,59900-59904,59903-59910,,59903-59915,,,4,rapid fade in g and r
+ZTF22abwooun,,n,n,n,y,n,,,,,,,3,rapid fade
+ZTF22abzucul,,n,y,n,y,n,,59930-59940,,59930-59940,,,4,rapid fade in g and r
+ZTF22acaruqr,afterglow,n,n,n,y,n,,,,,,,2,low quality
+ZTF23aaayvkz,,n,m,n,m,n,,,,,,,2,slow fade
+ZTF23aabmzlp,afterglow,n,m,n,y,n,,,,,,,3,rapid fade in r; potential rapid fade in sdssr
+ZTF23aadhssd,,n,y,n,y,n,,,,,,,2,slow fade
+ZTF23aaeiyeq,,n,y,n,n,n,,,,,,,3,rapid fade in g but data somewhat noisy
+ZTF23aaemgsd,Ia,y,y,y,y,y,60040-60055,60055-60075,60045-60055,60054-60065,,,5,somewhat slow rise and fade
+ZTF23aaenmcm,,n,y,n,y,n,,60040-60060,,60040-60060,,,4,rapid fade
+ZTF23aaeozpp,FBOT,n,y,m,y,n,,60045-60055,60040-60050,60045-60055,,,4,potential rise in r and rapid fade in both
+ZTF23aagbipz,,n,n,n,n,n,,,,,,,0,no data
+ZTF23aagunkc,,n,y,n,y,n,,60055-60065,,60055-60065,,,4,rapid fade
+ZTF23aahnnrr,,y,n,n,m,n,60055-60060,,,60055-60060,,,5,rapid rise in g; potential fade in r
+ZTF23aaikakr,Cataclysmic,n,y,y,y,n,,60060-60075,60060-60064,60063-60070,,,5,rapid rise in r; moderate fade in r and g
+ZTF23aaimsja,FBOT,y,m,y,n,n,60060-60065,60064-60070,60060-60070,,,,5,potential fade data from sdss
+ZTF23aaixebv,,n,y,n,y,y,,60070-60080,,60070-60080,,60070-60080,4,rapid fade
+ZTF23aajadma,,n,m,m,m,y,,,,,,,2,noisy data
+ZTF23aajaxvk,Cataclysmic,n,y,n,y,n,,60075-60090,,60075-60090,,,4,rapid fade
+ZTF23aajazzg,,n,n,n,y,n,,,,60075-60090,,,4,rapid fade; somewhat noisy
+ZTF23aajfnyc,,n,m,n,n,n,,,,,,,2,slow fade
+ZTF23aajlohn,,n,n,n,y,n,,,,,,,3,potential fade but weird plateau after
+ZTF23aaksqdp,,y,y,y,y,y,,,,,,,3,slow rise and fade but very complete. Is this a Ia?
+ZTF23aaljkky,,n,y,n,n,n,,60085-60105,,60085-60105,,,5,rapid fade
+ZTF23aalmfej,,n,n,n,y,n,,,,,,,3,rapid fade; paucity of data
+ZTF23aamhlcz,,n,n,n,y,n,,,,,,,3,rapid fade; paucity of data
+ZTF23aamibcp,,m,y,n,n,n,,60090-60095,,,,,4,rapid fade
+ZTF23aaoohpy,afterglow,n,y,m,y,n,,60110-10115,,60110-10115,,,4,lots of sdss observations in fade
+ZTF23aarlxdf,Classical Nova,n,y,n,y,y,,60135-60155,,60140-60155,,60135-60145,4,moderate fade in g r and i
+ZTF23aasxbqp,,n,y,n,y,y,,60140-60150,,60140-60155,,,4,rapid fade
+ZTF23aatldsz,,n,n,n,n,n,,,,,,,0,no data
+ZTF23aauotrt,Cataclysmic,m,y,n,n,n,,60150-60155,,,,,4,potential rise in g; rapid fade in g; last data point is weird
+ZTF23aavtwvs,,n,y,n,y,n,,60155-60170,,60155-60165,,,4,rapid fade
+ZTF23aaxeacr,afterglow,n,n,n,n,n,,,,,,,3,sdss data covers rapid fade
+ZTF23aaxzvrr,Classical Nova,n,m,n,y,n,,,,,,,3,rapid fade; some sdss data
+ZTF23abbfrqp,,n,n,n,m,n,,,,,,,3,sdsr suggests ztfr may not be fade
+ZTF23abceaxk,,n,y,y,y,n,,60195-60205,60190-60201,60200-60205,,,5,seems to have rapid rise in r; rapid fade in g and r and sdssr
+ZTF23abcynsv,,n,m,m,m,y,,,,,,,2,very noisy
+ZTF23abeqble,,n,y,n,y,n,,60204-60220,,60204-60215,,,4,moderately rapid fade
+ZTF23abgsmsg,,m,y,y,y,y,60210-60215,60214-60220,60210-60215,60214-60220,,60210-60225,4,rapid rise; slow fade
+ZTF23abhxvun,Novae,n,m,n,n,n,,,,,,,1,low quality
+ZTF23abhyqqs,,n,y,n,n,n,,,,,,,3,rapid fade; paucity of data
+ZTF23abjwgre,Type II;Type II,m,y,y,m,y,,,,,,,4,interesting difference in color; rise of r during fade of g
+ZTF23abnpdod,Cataclysmic,y,y,y,y,y,60244-60248,60247-60260,60244-60248,60247-60260,60245-60250,60248-60260,5,rapid rise; less rapid fade
+ZTF23abobwsd,IIb,n,n,n,n,n,,,,,,,1,sdssz data might be obscurring data
+ZTF23abpxorf,,n,y,n,y,n,,60255-60265,,60255-60265,,,4,rapid fade
+ZTF23abrzabc,Novae,n,y,n,y,y,,,,,,,3,weird spike during fade
+ZTF23absafzo,,n,n,n,n,n,,,,,,,0,no data
+ZTF23absajre,,n,n,n,y,n,,,,60284-60290,,,4,rapid fade
+ZTF23absbqun,Ib,y,y,y,y,n,60284-60288,60286-60290,,60285-60295,,,5,rapid rise and fade; lots of sdss and atlas data
+ZTF23abtycgb,Type II,m,m,m,m,n,,,,,,,2,low quality
+ZTF24aabqdol,,n,y,n,n,n,,,,,,,3,moderate fade
+ZTF24aaekhtc,,n,n,n,y,n,,,,,,,3,moderate fade
+ZTF24aafuvmu,,y,y,n,y,y,60355-60360,60358-60365,,60360-60395,,,5,rapid rise and moderate fade
+ZTF24aagnnor,,n,n,n,n,n,,,,,,,0,no data
+ZTF24aahkzvn,,n,n,y,y,n,,,60385-60395,60391-60400,,,5,rapid rise and fade in r
+ZTF24aaifosg,,n,n,n,n,n,,,,,,,2,atlaso might be obscuring data
