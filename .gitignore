@@ -1,6 +1,7 @@
 *Zone.Identifier
-lcs_bulla_2022
+lcs_bulla_*
 ./lcs*
+
 svdmodels
 *.tar.gz
 secret.txt
