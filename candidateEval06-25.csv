@@ -1,0 +1,192 @@
+object,redshift,class,captures_ztfg_rise,captures_ztfg_fade,captures_ztfr_rise,captures_ztfr_fade,has_ztfi,ztfg_rise,ztfg_fade,ztfr_rise,ztfr_fade,ztfi_rise,ztfi_fade,usability,notes,citation
+ZTF18aakuewf,0.0636,Ibn,n,y,y,y,n,,58225-58240,58225-58230,58230-58250,,,4,,https://www.aanda.org/articles/aa/abs/2021/05/aa36308-19/aa36308-19.html
+ZTF18aalrxas,0.0582 ± 0.0003,IIb,y,y,n,y,n,58227-58230,58229-58235,,58229-58232,,,3,lowish quality ztfr,https://arxiv.org/abs/1903.09262
+ZTF18abantmh,,,n,n,n,n,n,,,,,,,0,low quality,
+ZTF18abffyqp,0.031,II,m,m,m,m,n,58307-58309,58308-58315,58307-58309,58308-58315,,,3,data gap at peak; odd second peak,https://arxiv.org/abs/2008.09986
+ZTF18abvkmgw,0.03847,Ib,y,y,y,y,n,58373-58378,58377-58383,58375-58378,58377-58386,,,3,decent g,https://www.wis-tns.org/object/2018ghd
+ZTF18abwkrbl,0.00999,IIb,y,y,m,y,n,58375-58380,58379-58386,58377-58381,58380-58387,,,3,only a couple of rise points,https://www.wis-tns.org/object/2018gjx
+ZTF19aanbpus,0.009969,IIb,y,y,y,y,y,59152-59170,59169-59200,59156-59173,59170-59200,,59180-59200,3,weird first r point,https://www.wis-tns.org/object/2020yvt
+ZTF19aaojovs,,,n,n,y,y,n,,,58580-58590,58588-58600,,,3,only r really; weird first g point,https://www.wis-tns.org/object/2019cst
+ZTF19aapfmki,0.05469,Ibn,m,y,y,y,n,58582-58587,58586-58610,58580-58587,58587-58600,,,4,can get peak from r,https://www.wis-tns.org/object/2019deh
+ZTF19aatesgp,0.0043,Ib,n,y,m,y,y,,58610-58620,58600-58610,58605-58630,,,4,color gap,https://www.wis-tns.org/object/2019ehk
+ZTF19aatoboa,,,m,y,n,m,n,58605-58610,58608-58615,,58610-58620,,,3,not much data,https://lasair-ztf.lsst.ac.uk/objects/ZTF19aatoboa/
+ZTF19abacxod,0.01765,II,y,y,y,y,y,58655-58670,58670-58680,58660-58675,58670-58685,58655-58675,,4,weird first g point; has color gap,https://www.wis-tns.org/object/2019hvg
+ZTF19abfarpa,,,y,n,n,n,n,58670-58677,58675-58680,58670-58677,58675-58680,,,3,reallly only rise in g,https://lasair-ztf.lsst.ac.uk/objects/ZTF19abfarpa/
+ZTF19abxjrge,0.021705,IIb,y,y,y,n,n,58733-58750,58750-58760,58735-58750,,,,4,weird first data point for g and r,https://www.wis-tns.org/object/2019ply
+ZTF19abxtcio,0.0155,IIb,m,y,y,y,n,58735-58747,58745-58760,58735-58750,58745-58760,,,3,weird first data point for g; r rise captured better,https://www.wis-tns.org/object/2019pof
+ZTF19abyjzvd,0.1353,Ibn,y,y,y,n,n,58730-58740,58740-58750,58730-58741,58740-58747,,,4,good rise observations; alright fade in g,https://lasair-ztf.lsst.ac.uk/objects/ZTF19abyjzvd/
+ZTF19acbumks,0.031,SN,y,y,y,y,y,58755-58761,58760-58764,58755-58761,58760-58767,,,5,3 data points for each band,https://www.wis-tns.org/object/2019rsq
+ZTF19accjfgv,0.027,IIb,n,y,n,y,n,,58755-58777,,58755-58780,,,3,no peak,https://www.wis-tns.org/object/2019rta
+ZTF19acsakuv,,,n,y,n,n,n,,58800-58813,,,,,3,no peak; weird r observations,https://lasair-ztf.lsst.ac.uk/objects/ZTF19acsakuv/
+ZTF20aahfqpm,0.03113,IIb,n,y,n,y,y,,58870-58875,,58870-58875,,58870-58875,4,no peak; fade in all bands,https://www.wis-tns.org/object/2020ano
+ZTF20aaivtof,,,n,y,n,y,n,,58875-58882,,58875-58890,,,3,little g data; weird spike in r,https://lasair-ztf.lsst.ac.uk/objects/ZTF20aaivtof/
+ZTF20aajnksq,2.9,long GRB,n,n,n,m,n,,,,58876-58877,,,2,single night of observation in r; could meet rise/fade requirement,https://ui.adsabs.harvard.edu/abs/2020ApJ...905...98H/abstract
+ZTF20aakqxsq,,,n,m,n,n,n,,58877-58878,,,,,2,single night of observation in g; could meet rise/fade requirement,https://www.wis-tns.org/object/2020adjb
+ZTF20aakypiu,,,y,y,y,y,y,58875-58882,58880-58885,58875-58882,58880-58885,58875-58882,58880-58885,5,good rise and fade observations in all bands; host has redshift,https://www.wis-tns.org/object/2020bot
+ZTF20aamsouh,,,n,n,n,m,n,,,,58891-58894,,,3,only 3 observations in r for fade,https://www.wis-tns.org/object/2020adje
+ZTF20aaxhzhc,0.037,IIb,n,y,m,y,y,,58970-58980,58965-58973,58970-58980,58965-58975,58970-58985,4,potential peak; but only one data point in each before then,https://www.wis-tns.org/object/2020ikq
+ZTF20aayrobw,0.061,II,y,y,n,y,n,58975-58981,58980-59000,,58980-59000,,,3,handful of points in g,https://www.wis-tns.org/object/2020jmb
+ZTF20aazchcq,0.03788,II,m,y,y,y,y,58970-58977,58975-58986,58970-58977,58975-58986,,58980-58987,3,handful of data points,https://www.wis-tns.org/object/2020jji
+ZTF20abmvjda,,,n,n,n,n,n,,,,,,,0,no observations,not in lasair
+ZTF20abstsxb,0.094,Ia,y,m,y,y,n,59075-59085,59082-59087,59075-59088,59087-59100,,,3,weird data,https://www.wis-tns.org/object/2020rni
+ZTF20abtxwfx,,GRB,n,n,n,n,n,,,,,,,0,no data,https://ui.adsabs.harvard.edu/abs/2020TNSAN.167....1A/abstract
+ZTF20abummyz,0.09855 ± 0.00001,,n,n,n,n,n,,,,,,,0,no data,https://iopscience.iop.org/article/10.3847/1538-4357/acc533
+ZTF20aburywx,0.0313,IIb,m,y,n,m,n,59080-59082,59081-59083,,59080-59082,,,2,may have peak in g; few data points,https://www.wis-tns.org/object/2020rsc
+ZTF20abwysqy,0.7481,long GRB,n,m,n,n,n,,59085-59090,,,,,5,I know this has data; used this in my paper,https://arxiv.org/abs/2105.05067
+ZTF20abwzqzo,0.023033,IIb,m,y,y,y,n,59090-59100,59105-59115,59090-59105,59103-59120,,,4,lots of altas and sdss data; r observations are better than g,https://www.wis-tns.org/object/2020sbw
+ZTF20abxrugr,,,n,y,n,m,n,,59090-59100,,59090-59100,,,3,decent fade in g,https://lasair-ztf.lsst.ac.uk/objects/ZTF20abxrugr/
+ZTF20acgigfo,0.00017,Novae,n,y,m,y,n,,59125-59145,59120-59128,59127-59145,,,4,decent fade in g,https://www.wis-tns.org/object/2020urd
+ZTF20acgiglu,0.026728,IIb,y,y,y,y,n,59125-59145,59143-59155,59125-59145,59150-59160,,,4,slow rise/fade in r; alright in g,https://www.wis-tns.org/object/2020urc
+ZTF20achedzl,,,n,n,n,n,n,,,,,,,0,no data,not in lasair
+ZTF20acigusw,0.062,II,n,y,n,m,n,,59130-59145,,59130-59140,,,3,decent fade in g,https://www.wis-tns.org/object/2020vyv
+ZTF20aclfmwn,0.038,IIb,n,y,m,m,n,,59140-59145,59140-59144,59143-59150,,,5,decent fade in g; weird spike in r,https://www.wis-tns.org/object/2020xlt
+ZTF20acozryr,1.105,GRB,n,y,n,y,n,,59155-59160,,59155-59160,,,4,fade data points,https://arxiv.org/abs/2104.06352
+ZTF20acpjgkt,,,n,n,n,n,n,,,,,,,0,low quality,https://lasair-ztf.lsst.ac.uk/objects/ZTF20acpjgkt/
+ZTF20acpkefi,,,y,y,y,y,n,59164-59179,59178-59190,59166-59185,59184-59190,,,1,slow rise/fade,https://www.wis-tns.org/object/2020zfi
+ZTF20acpuwbf,,,y,y,y,y,n,59165-59177,59175-59190,59165-59177,59165-59190,,,3,okay rise/fade,https://www.wis-tns.org/object/2020aabw
+ZTF20acqehqq,,,n,n,n,n,n,,,,,,,0,no data,not in lasair
+ZTF20acqirkw,,,n,y,n,y,y,,59165-59173,,59165-59175,,59165-59175,3,mostly just fade; some wierd data points,https://lasair-ztf.lsst.ac.uk/objects/ZTF20acqirkw/
+ZTF20acqntkr,0.015661,Ia,n,n,n,n,n,,,,,,,0,no data,https://www.wis-tns.org/object/2020abim
+ZTF20actbebh,,orphan,n,n,n,y,n,,,,59175-59185,,,3,some fade in r,https://lasair-ztf.lsst.ac.uk/objects/ZTF20actbebh/
+ZTF20actoqra,,,n,y,n,y,n,,59175-59185,,59175-59185,,,3,fade data,https://lasair-ztf.lsst.ac.uk/objects/ZTF20actoqra/
+ZTF20actqnhg,0.031,IIb,y,y,y,m,y,59185-59200,59198-59210,59180-59200,59198-59210,,,4,very well observed; but might be slow,https://www.wis-tns.org/object/2020aaxf
+ZTF20acutkgr,,,m,m,m,m,m,59180-59186,59184-59190,59180-59186,59184-59187,,,3,maybe can get peak; may have fade observation on same night as peak on 59185,https://lasair-ztf.lsst.ac.uk/objects/ZTF20acutkgr/
+ZTF20acwbcsj,,,n,m,n,m,n,,59192-59194,,59192-59194,,,3,potential fade,not in lasair
+ZTF20acxooqk,,,n,m,n,m,n,,,59195-59211,59210-59220,,,1,noisy r data,https://lasair-ztf.lsst.ac.uk/objects/ZTF20acxooqk/
+ZTF20acxouxk,,orphan,n,y,n,y,n,,59195-59210,,59195-59210,,,4,decent fade in both,https://lasair-ztf.lsst.ac.uk/objects/ZTF20acxouxk/
+ZTF20acylyct,,orphan,n,m,n,y,n,,59200-59206,,59200-59206,,,3,decent fade in r,https://lasair-ztf.lsst.ac.uk/objects/ZTF20acylyct/
+ZTF21aaabrpu,0.027172,IIb,y,n,y,n,y,59217-59235,,59217-59235,,59217-59235,,4,weird first data point for g; potentially slow rise/fade,https://www.wis-tns.org/object/2021rf
+ZTF21aaabwfu,0.010929,IIb,n,m,m,m,y,,59216-59222,,59216-59222,,59216-59220,3,weird shape; kind of a mild hump over the course of 30 days,https://www.wis-tns.org/object/2021M
+ZTF21aaafmhn,,,n,m,n,m,n,,59215-59222,,59215-59230,,,3,sharp fade at first in r and g; subsequent data points have less of a fade ,https://lasair-ztf.lsst.ac.uk/objects/ZTF21aaafmhn/
+ZTF21aaarlbp,,Novae,n,y,n,y,n,,59215-59225,,59215-59225,,,3,some fade in both; has host distance,https://lasair-ztf.lsst.ac.uk/objects/ZTF21aaarlbp/
+ZTF21aabtdut,,,n,n,n,n,n,,,,,,,0,no data,not in lasair
+ZTF21aabxjqr,0.03317803,IIb,m,y,m,y,n,,,,,,,4,weird secondary peak; dip likely real given preponderance of filters,https://www.wis-tns.org/object/2021pb
+ZTF21aacngji,,,n,m,n,m,y,,59220-59226,,,,,1,weird offset in fade between filters,https://lasair-ztf.lsst.ac.uk/objects/ZTF21aacngji/
+ZTF21aacwrno,,,m,n,m,n,n,,,59224-59226,,,,1,2 rise points then plateau,https://lasair-ztf.lsst.ac.uk/objects/ZTF21aacwrno/
+ZTF21aacxlgf,,orphan,n,y,n,y,n,,59225-59235,,59225-59235,,,4,good fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF21aacxlgf/
+ZTF21aaczajl,,unclear,n,y,n,y,n,,59223-59231,,59223-59231,,,3,slow-ish fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF21aaczajl/
+ZTF21aaeyldq,,afterglow,n,m,n,m,n,,59230-59231,,59230-59231,,,3,2 data points in r on same night,https://arxiv.org/abs/2111.11795
+ZTF21aagmecm,,,n,m,n,y,n,,59251-59255,,59245-59251,,,3,might be a IIB bump; going for first fade in r but there is a decent fade in r from 59260-59271,https://lasair-ztf.lsst.ac.uk/objects/ZTF21aagmecm/
+ZTF21aagwbjr,0.876,long GRB,n,n,n,y,y,,,,59250-59253,,,3,rapid fade in r,https://gcn.nasa.gov/circulars/29432
+ZTF21aahifke,,FOT,m,n,n,n,n,59250-59253,,,,,,2,2 rise points in g,https://gcn.nasa.gov/circulars/29446
+ZTF21aahjuct,,,n,y,n,y,n,,59250-59257,,49250-59257,,,3,decent fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF21aahjuct/
+ZTF21aaiblte,,,m,m,m,m,y,59250-59255,59254-59258,59250-59256,59255-59261,,,2,weird rise in r during fade in g; noisy data,https://lasair-ztf.lsst.ac.uk/objects/ZTF21aaiblte/
+ZTF21aaidofu,,,n,m,n,m,y,,59255-59257,,59255-59257,,,2,potential fade in r; low quality,not in lasair
+ZTF21aaivnap,,orphan,y,y,y,y,y,59255-59264,59262-59266,59253-59264,59262-59266,,,3,odd second peak in r; only counting first rise and fade;  i band observations are here but two seem to straddle the peak,https://lasair-ztf.lsst.ac.uk/objects/ZTF21aaivnap/
+ZTF21aajzfoq,,orphan,n,y,n,y,n,,59255-59270,,59255-59270,,,4,good fade; no peak,https://lasair-ztf.lsst.ac.uk/objects/ZTF21aajzfoq/
+ZTF21aapkbav,0.036,IIb,n,m,m,y,y,,59290-59295,,59290-59295,,,4,interesting feature in r second peak,https://www.wis-tns.org/astronotes/astronote/2021-94
+ZTF21aaquyjp,,FOT;orphan,n,n,n,y,n,,,,59300-59305,,,3,good fade in r,https://ui.adsabs.harvard.edu/abs/2021TNSAN.105....1A/abstract
+ZTF21aaqzrat,0,U Gem,y,y,m,y,y,59300-59311,59316-59325,59300-59310,59317-59325,59300-59313,59311-59325,3,weird oscillation in observations at early times; has an odd point at the peak where it just kind of plateaus,https://www.wis-tns.org/object/2021hoz
+ZTF21aareeit,,,m,y,m,m,y,59303-59305,59304.3-59308,59304-59306,59305-59308,,,3,better fade in g; has peak on same day as rise; will need to grab that data point separately from rise points ,https://lasair-ztf.lsst.ac.uk/objects/ZTF21aareeit/
+ZTF21aavqior,,orphan,n,y,n,y,n,,59319-59325,,59319-59323,,,3,fades faster in first 6 days vs first 25 days,https://lasair-ztf.lsst.ac.uk/objects/ZTF21aavqior/
+ZTF21abbvvmf,0.010945,IIb,n,n,n,n,n,,,,,,,0,no data,https://www.wis-tns.org/object/2021msa
+ZTF21abdpqpq,,,n,n,n,m,y,,,,59365-59370,,,1,weird lightcurve,https://lasair-ztf.lsst.ac.uk/objects/ZTF21abdpqpq/
+ZTF21abexegc,0,Cataclysmic,n,y,n,y,n,,59372-59378,,59372-59380,,,3,rapid fade; excluding anomalous g point at around 59379,https://www.wis-tns.org/object/2021plg
+ZTF21abfmpwn,1.1345,afterglow,n,y,n,y,n,,59375-39378,,59375-39378,,,3,rapid fade ,https://www.wis-tns.org/object/2021qbd
+ZTF21abhjssj,,orphan,n,y,n,y,n,,59384-59387,,59386-59394,,,3,okay fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF21abhjssj/
+ZTF21abhywxv,0.049,Ib/c;Ib-pec,m,y,n,y,n,59390-59390.25,59390.25-59392,,59390-59392,,,3,potential peak in g on same day as rise,https://www.wis-tns.org/object/2021qyd
+ZTF21abinaiu,,,n,m,n,n,n,,59395-59397,,,,,2,low quality,not in lasair
+ZTF21abkkcev,,orphan,n,m,m,y,n,,59404-59407,59404-59407,59406-59409,,,2,low-ish quality; odd offset between rise and fade between filters,https://lasair-ztf.lsst.ac.uk/objects/ZTF21abkkcev/
+ZTF21abturbi,,,n,y,n,y,n,,59440-59450,,59440-59445,,,4,rapid fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF21abturbi/
+ZTF21abuysnl,,,n,y,n,y,n,,59450-59455,,59450-59455,,,4,rapid fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF21abuysnl/
+ZTF21abvczhr,,orphan,n,y,n,y,n,,59452-59460,,59451-59460,,,3,okay fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF21abvczhr/
+ZTF21abvierr,,,n,y,n,y,n,,59452-59455,,59451-59454,,,3,okay fade; slight bump from 59455-59457 before fade again,https://lasair-ztf.lsst.ac.uk/objects/ZTF21abvierr/
+ZTF21abwpwmg,,unclear,m,m,m,m,y,59458-59461,59460-59463,,,59465-59475,,1,weird shape; g peak seems earlier than r and i,https://lasair-ztf.lsst.ac.uk/objects/ZTF21abwpwmg/
+ZTF21accyvib,,,y,m,m,y,n,59475-59481,59480-59485,59475-59481,59480-59485,,,3,rapid rise in g; moderate fade in r,https://lasair-ztf.lsst.ac.uk/objects/ZTF21accyvib/
+ZTF21accyynu,,,y,y,n,y,n,59475-59477,59477-59490,,59475-59490,,,4,rapid rise in g; moderate fade in g and r,https://lasair-ztf.lsst.ac.uk/objects/ZTF21accyynu/
+ZTF21aciosfu,0,Cataclysmic,n,y,n,y,n,,59505-59525,,59505-59525,,,4,moderate fade,https://www.wis-tns.org/object/2021abwn
+ZTF21acnjzwy,,unclear,n,y,n,y,y,,59525-59545,,59525-59545,,59530-59545,4,moderate fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF21acnjzwy/
+ZTF22aaajecp,1.1933,Tidal Disruption Event,y,m,y,y,n,59620-59623,59623-59625,59620-59623,59623-59625,,,4,rapid rise; slow fade,https://www.nature.com/articles/s41586-022-05465-8
+ZTF22aaazhbd,,,n,y,n,y,n,,59625-59631,,59625-59630,,,4,rapid fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF22aaazhbd/
+ZTF22aaazmxq,,Novae;Classical Nova,n,y,n,n,n,,59626-59630,,,,,3,rapid fade in g; M31 host so some distance estimate,https://lasair-ztf.lsst.ac.uk/objects/ZTF22aaazmxq/
+ZTF22aabjpxh,0.293,long GRB,n,n,n,y,n,,,,59629-59631,,,3,rapid fade in r,https://gcn.nasa.gov/circulars/31683
+ZTF22aabvdtc,,orphan,n,n,n,y,y,,,,59635-59645,,59635-59640,4,decent fade in r and i,https://lasair-ztf.lsst.ac.uk/objects/ZTF22aabvdtc/
+ZTF22aafevvf,,unclear,m,n,m,n,n,,,,,,,1,weird lightcurve,https://lasair-ztf.lsst.ac.uk/objects/ZTF22aafevvf/
+ZTF22aahgvlx,0.056,IIb,n,y,n,y,n,,59690-59700,,59690-59700,,,4,double peak,https://www.wis-tns.org/object/2022icd
+ZTF22aahyqon,,,n,y,n,m,n,,59695-59702,,59695-59699,,,3,rapid fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF22aahyqon/
+ZTF22aaibbvy,0,Cataclysmic,n,y,n,y,n,,59695-59702,,59699-59710,,,3,moderate fade,https://www.wis-tns.org/object/2022izq
+ZTF22aaigbnr,,orphan,n,y,n,y,y,,59695-59705,,59695-59705,,,4,rapid fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF22aaigbnr/
+ZTF22aailsqb,0.062479,,m,n,m,m,n,59710-59713,,59700-59709,,,,1,weird data in r; host redshift,https://www.wis-tns.org/object/2022jag
+ZTF22aajkkwd,,,m,y,y,y,n,,59710-59720,59705-59708,59707-59715,,,4,rapid rise and fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF22aajkkwd/
+ZTF22aajrrzz,0.034129,Ia,y,y,y,y,y,59710-59720,59720-59735,59710-59720,59720-59740,,,5,should drop atlas,https://www.wis-tns.org/object/2022jut
+ZTF22aakhkoc,0.019,,n,n,n,m,n,,,,59718-59719,,,2,weird data; host redshift,https://lasair-ztf.lsst.ac.uk/objects/ZTF22aakhkoc/
+ZTF22aanbmvf,,,n,n,y,y,n,,,59735-59738,59737-59745,,,4,rapid rise and fade in r; M33 possible host,https://lasair-ztf.lsst.ac.uk/objects/ZTF22aanbmvf/
+ZTF22aapgcak,,orphan,n,m,n,m,n,,59757-59761,,59756-59759,,,3,2 fade points in g and r,https://lasair-ztf.lsst.ac.uk/objects/ZTF22aapgcak/
+ZTF22aayluxo,0,Cataclysmic,y,y,y,y,n,59790-59800,59795-59810,59790-59798,59795-59800,,,4,rise and fade; only 3 data points; CV status not definitive,https://www.wis-tns.org/astronotes/astronote/2022-161
+ZTF22aazmooy,0.00017,Novae;Classical Nova,n,y,n,y,y,,59800-59815,,59800-59815,,59800-59815,4,good fade in g r and i,https://www.wis-tns.org/object/2022qzf
+ZTF22abaowkz,0.019,,n,y,n,y,n,,59805-59825,,59805-59825,,,4,good fade in g and r; possible host redshift sourced from lasair,https://lasair-ztf.lsst.ac.uk/objects/ZTF22abaowkz/
+ZTF22abbjzmp,,,n,n,n,y,n,,,,59808-59811,,,3,2 data points but rapid r fade,not in lasair
+ZTF22abdwekt,,,n,y,n,n,n,,59820-59822,,,,,3,2 data points but rapid g fade,not in lasair
+ZTF22abfjnpj,0,Cataclysmic,y,y,y,y,y,59827-59829,59828-59840,59827-59829,59828-59845,,59829-59843,3,potential rapid rise but slow fade,https://www.wis-tns.org/object/2022tru
+ZTF22abfxmpc,0,Novae;Classical Nova,m,y,n,y,y,,59840-59845,,59840-59850,,59840-59850,4,decent fade,https://www.astronomerstelegram.org/?read=15652
+ZTF22abgaqwq,,,n,y,n,n,n,,59838-59842,,,,,3,2 data points but rapid g fade,not in lasair
+ZTF22abgnxir,,,n,y,n,n,n,,59840-59842,,,,,3,2 data points but rapid g fade,not in lasair
+ZTF22abgtqpb,,,n,n,n,y,n,,,,59842-59848,,,3,rapid-ish r fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF22abgtqpb/
+ZTF22abijszk,0.001,Novae,n,n,n,y,n,,,,59848-59851,,,3,rapid-ish r fade,https://www.wis-tns.org/object/2022waj
+ZTF22abjibjf,,,n,y,m,y,n,,59851-59854,59851-59852,59851-59854,,,3,rapid fade; may catch rise in same night in r,https://lasair-ztf.lsst.ac.uk/objects/ZTF22abjibjf/
+ZTF22abjmsuh,,,n,y,n,y,n,,59852-59861,,59852-59861,,59853-59860,3,somewhat slow fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF22abjmsuh/
+ZTF22abmsaxp,0.013403,II,y,y,y,m,y,59864-59872,59871-59883,59864-59872,,,,2,plateau; slow fade and rise,https://www.wis-tns.org/object/2022xjk
+ZTF22abntkbk,0.089,Ia,n,y,n,n,n,,59870-59875,,,,,4,rapid fade in g; lasair association with sn2016nx is somewhat odd,https://www.wis-tns.org/object/2016nx
+ZTF22abpxhnj,,,n,n,n,y,n,,,,,,,1,slow fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF22abpxhnj/
+ZTF22absxjze,,,n,n,n,y,n,,,,59888-59889,,,3,rapid fade then weird rise in last data point,not in lasair
+ZTF22abtonmb,0.111,,y,m,y,y,n,59890-59900,59904-59910,59895-59908,59908-59910,,,5,rapid rise and fade; host galaxy redshift,https://lasair-ztf.lsst.ac.uk/objects/ZTF22abtonmb/
+ZTF22abtonxt,,unclear,n,n,n,n,n,,,,,,,0,no data,https://lasair-ztf.lsst.ac.uk/objects/ZTF22abtonxt/
+ZTF22abtopmq,,,n,n,n,y,n,,,,59894-59897,,,3,rapid fade then weird rise in last data point,https://lasair-ztf.lsst.ac.uk/objects/ZTF22abtopmq/
+ZTF22abuzpzz,0,Cataclysmic,n,y,n,y,n,59900-59904,59903-59910,,59903-59915,,,4,rapid fade in g and r,https://www.wis-tns.org/object/2022aarx
+ZTF22abwooun,,,n,n,n,y,n,,,,59906-59910,,,3,rapid fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF22abwooun/
+ZTF22abzucul,,,n,y,n,y,n,,59930-59940,,59930-59940,,,4,rapid fade in g and r,https://lasair-ztf.lsst.ac.uk/objects/ZTF22abzucul/
+ZTF22acaruqr,0.6881 ± 0.1994,afterglow,n,n,n,y,n,,,,59935-59937,,,2,low quality,https://gcn.nasa.gov/circulars/33120
+ZTF23aaayvkz,,orphan,n,m,n,m,n,,59966-59969,,59968-59980,,,1,slow fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF23aaayvkz/
+ZTF23aabmzlp,,afterglow,n,m,n,y,n,,59972-59973,,59972-59973,,,3,rapid fade in r; potential rapid fade in sdssr,https://gcn.nasa.gov/circulars/33297
+ZTF23aadhssd,0,Cataclysmic,n,y,n,y,n,,60031-60037,,60020-60032,,,2,slow fade in g; moderate fade in r,https://www.wis-tns.org/object/2023ebq
+ZTF23aaeiyeq,,,n,y,n,n,n,,60042-60043,,,,,3,rapid fade in g but data somewhat noisy,https://lasair-ztf.lsst.ac.uk/objects/ZTF23aaeiyeq/
+ZTF23aaemgsd,0.023,Ia,y,y,y,y,y,60040-60055,60055-60075,60045-60055,60054-60065,,,5,somewhat slow rise and fade,https://www.wis-tns.org/object/2023exm
+ZTF23aaenmcm,,orphan,n,y,n,y,n,,60040-60060,,60040-60060,,,4,rapid fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF23aaenmcm/
+ZTF23aaeozpp,0.24,FBOT,n,y,m,y,n,,60045-60055,60040-60050,60045-60055,,,4,potential rise in r and rapid fade in both; potential host galaxy redshift,https://www.wis-tns.org/astronotes/astronote/2023-93
+ZTF23aagbipz,,,n,n,n,n,n,,,,,,,0,no data,not in lasair
+ZTF23aagunkc,,FBOT; Cataclysmic,n,y,n,y,n,,60055-60065,,60055-60065,,,4,rapid fade; see fink-portal as well,https://www.wis-tns.org/astronotes/astronote/2023-99
+ZTF23aahnnrr,,,y,n,n,m,n,60055-60060,,,60055-60060,,,5,rapid rise in g; potential fade in r,not in lasair
+ZTF23aaikakr,0,Cataclysmic,n,y,y,y,n,,60060-60075,60060-60064,60063-60070,,,5,rapid rise in r; moderate fade in r and g,https://www.wis-tns.org/object/2023hji
+ZTF23aaimsja,0.339,FBOT,y,m,y,n,n,60060-60065,60064-60070,60060-60070,,,,5,potential fade data from sdss; potential host galaxy redshift,https://ui.adsabs.harvard.edu/abs/2023TNSAN.114....1L/abstract
+ZTF23aaixebv,,,n,y,n,y,y,,60070-60080,,60070-60080,,60070-60080,4,rapid fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF23aaixebv/
+ZTF23aajadma,0,Cataclysmic,n,m,m,m,y,,60082-60100,60078-60083,,,60073-60082,1,noisy data; weird offsets between potential rise and fade,https://www.wis-tns.org/object/2023exw
+ZTF23aajaxvk,,Cataclysmic,n,y,n,y,n,,60075-60090,,60075-60090,,,4,rapid fade; not sure where Michael sourced classification from,https://lasair-ztf.lsst.ac.uk/objects/ZTF23aajaxvk/
+ZTF23aajazzg,,,n,n,n,y,n,,,,60075-60090,,,4,rapid fade; somewhat noisy; possible host galaxy distance,https://lasair-ztf.lsst.ac.uk/objects/ZTF23aajazzg/
+ZTF23aajfnyc,,,n,m,n,n,n,,,,,,,1,slow fade; sherlock classifies as variable star,https://lasair-ztf.lsst.ac.uk/objects/ZTF23aajfnyc/
+ZTF23aajlohn,,,n,n,n,y,n,,,,60077-60079,,,3,potential fade but weird plateau after,not in lasair
+ZTF23aaksqdp,,,m,y,m,y,y,,60084-60087,,60084-60087,,,3,slow rise and fade but very complete; by eye looks kind of like a Ia,https://lasair-ztf.lsst.ac.uk/objects/ZTF23aaksqdp/
+ZTF23aaljkky,,orphan,n,y,n,n,n,,60085-60105,,60085-60105,,,5,rapid fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF23aaljkky/
+ZTF23aalmfej,,orphan,n,n,n,y,n,,,,60087-60092,,,3,rapid fade; paucity of data,https://lasair-ztf.lsst.ac.uk/objects/ZTF23aalmfej/
+ZTF23aamhlcz,,,n,n,n,y,n,,,,60091-60094,,,3,rapid fade; paucity of data; not in lasair; possible FOT,https://www.wis-tns.org/object/2023jrh
+ZTF23aamibcp,,,m,y,n,n,n,,60090-60095,,,,,4,rapid fade,not in lasair
+ZTF23aaoohpy,1.027,afterglow; Ic-BL,n,y,m,y,n,,60110-10115,,60110-10115,,,4,lots of sdss observations in fade; originally listed classification as afterglow,https://www.wis-tns.org/object/2023lcr
+ZTF23aarlxdf,-0.001,Novae;Classical Nova,n,y,n,y,y,,60135-60155,,60140-60155,,60135-60145,4,moderate fade in g r and i; M31 host redshift,https://www.wis-tns.org/object/2023mxi
+ZTF23aasxbqp,-0.001,,n,y,n,y,y,,60140-60150,,60140-60155,,,4,rapid fade; M31 host redshift,https://www.wis-tns.org/object/2023nng
+ZTF23aatldsz,,,n,n,n,n,n,,,,,,,0,no data,https://lasair-ztf.lsst.ac.uk/objects/ZTF23aatldsz/
+ZTF23aauotrt,,Cataclysmic,m,y,n,n,n,,60150-60155,,,,,4,potential rise in g; rapid fade in g; last data point is weird; unsure of classification source,not in lasair
+ZTF23aavtwvs,,,n,y,n,y,n,,60155-60170,,60155-60165,,,4,rapid fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF23aavtwvs/
+ZTF23aaxeacr,0.36,afterglow; Ic-BL,n,m,n,m,n,,60169-60170,,60169-60170,,,3,sdss data covers rapid fade,https://www.wis-tns.org/object/2023pel
+ZTF23aaxzvrr,0,Novae;Classical Nova,n,m,n,y,n,,,,60171-60174,,,3,rapid fade; some sdss data,https://www.wis-tns.org/object/2023prq
+ZTF23abbfrqp,,,n,n,n,m,n,,,,60193-60195,,,3,sdsr suggests ztfr may not be fade; not in lasair,https://www.wis-tns.org/object/2023sem
+ZTF23abceaxk,,,n,y,y,y,n,,60195-60205,60190-60201,60200-60205,,,5,seems to have rapid rise in r; rapid fade in g and r and sdssr,https://lasair-ztf.lsst.ac.uk/objects/ZTF23abceaxk/
+ZTF23abcynsv,0.119,,n,m,m,m,y,,,,,,,1,very noisy; host galaxy redshift,https://lasair-ztf.lsst.ac.uk/objects/ZTF23abcynsv/
+ZTF23abeqble,,,n,y,n,y,n,,60204-60220,,60204-60215,,,4,moderately rapid fade; possible TDE according to ATNF (CX538),https://lasair-ztf.lsst.ac.uk/objects/ZTF23abeqble/
+ZTF23abgsmsg,-0.001,Novae,m,y,y,y,y,60210-60215,60214-60220,60210-60215,60214-60220,,60210-60225,4,rapid rise; slow fade; could be dwarf nova in MW,https://www.wis-tns.org/object/2023tmh
+ZTF23abhxvun,,Novae,n,n,n,n,n,,,,,,,1,low quality; potental M31 Nova,https://lasair-ztf.lsst.ac.uk/objects/ZTF23abhxvun/
+ZTF23abhyqqs,,orphan,n,y,n,n,n,,60221-60224,,,,,3,rapid fade; paucity of data,https://lasair-ztf.lsst.ac.uk/objects/ZTF23abhyqqs/
+ZTF23abjwgre,0.0231,IIP,n,m,y,n,y,,60245-60250,60230-60236,60246-60251,60230-60246,60245-60250,3,data is somewhat noisy but covers all bands at approximately same time; listed r rise is not full rise; full rise from 60230-60247 but only rises from 19 to 18.6 or so from 60240-60247,https://www.wis-tns.org/object/2023vcg
+ZTF23abnpdod,0,Cataclysmic,y,y,y,y,y,60244-60248,60247-60260,60244-60248,60247-60260,60245-60250,60248-60260,5,rapid rise; less rapid fade,https://www.wis-tns.org/object/2023vxs
+ZTF23abobwsd,0.024,IIb,n,m,n,m,y,,60250-60258,,60250-60258,,60249-60259,3,second bump,https://www.wis-tns.org/object/2023wdd
+ZTF23abpxorf,,orphan,n,y,n,y,n,,60255-60265,,60255-60265,,,4,rapid fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF23abpxorf/
+ZTF23abrzabc,,Novae,n,y,n,y,y,,60284-60286,,60284-60286,,,3,weird spike during fade; M33 source,https://www.wis-tns.org/object/2023ypg
+ZTF23absafzo,0,Novae,n,n,n,n,n,,,,,,,0,no data,https://www.wis-tns.org/object/2023yoa
+ZTF23absajre,,,n,n,n,y,n,,,,60284-60290,,,4,rapid fade; not in lasair,https://www.wis-tns.org/object/2023zgs
+ZTF23absbqun,0.0101,Ib,y,y,y,y,n,60284-60288,60286-60290,,60285-60295,,,5,rapid rise and fade; lots of sdss and atlas data,https://www.wis-tns.org/astronotes/astronote/2023-335
+ZTF23abtycgb,0.020127,II,n,m,n,m,n,,60292-60295,,60292-60295,,,2,low quality,https://www.wis-tns.org/object/2023zzk
+ZTF24aabqdol,,orphan,n,y,n,n,y,,60322-60328,,,,,3,moderate fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF24aabqdol/
+ZTF24aaekhtc,,,n,n,n,y,n,,,,60351-60355,,,3,moderate fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF24aaekhtc/
+ZTF24aafuvmu,,orphan,y,y,n,y,y,60355-60360,60358-60365,,60360-60395,,,5,rapid rise and moderate fade,https://lasair-ztf.lsst.ac.uk/objects/ZTF24aafuvmu/
+ZTF24aagnnor,,,n,n,n,n,n,,,,,,,0,no data,not in lasair
+ZTF24aahkzvn,,,n,n,y,y,n,,,60385-60395,60391-60400,,,5,rapid rise and fade in r,https://lasair-ztf.lsst.ac.uk/objects/ZTF24aahkzvn/
+ZTF24aaifosg,,,n,m,n,m,y,,60403-60408,,60403-60405,,,2,slightly noisy data; possible host UGC08802; z = 0.041,https://www.wis-tns.org/astronotes/astronote/2024-93
+ZTF24aascytf,0.038,II,y,y,y,y,y,60476-60477.3,60477.1-60479.5,60476-60477.4,60477.33-60484,,,5,host galaxy redshift,https://www.wis-tns.org/object/2024lhs

@@ -29,7 +29,8 @@ objIds = [
     "ZTF23aagbipz",
     "ZTF23aatldsz",
     "ZTF23absafzo",
-    "ZTF24aagnnor"
+    "ZTF24aagnnor",
+    "ZTF24aascytf",
 ]
 
 for ii, objId in enumerate(objIds):
