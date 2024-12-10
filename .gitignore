@@ -3,4 +3,4 @@ lcs_bulla_*
 svdmodels
 *.tar.gz
 secret.txt
-
+*.pyc
