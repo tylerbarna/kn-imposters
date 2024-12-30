@@ -4,3 +4,5 @@ svdmodels
 *.tar.gz
 secret.txt
 *.pyc
+*.DS_Store
+.DS_store
