@@ -1,0 +1,11 @@
+steps when adding a new object for rapid analysis
+
+1. Update candidateEval to include new object. Download to local
+2. Create folder in data/ with name of object
+3. Add csv file to folder. Must have obj_id, mjd, mag, mag_err, lim_mag, snr (also change filters of sdss and atlas to ztf if relevant). also define type
+4. Add exception to on_gp to read in specific csv and update candidateEval import
+5. Run on_gp
+6. Add cutoff to cut_data cell in downsampling_gp
+7. Run downsampling_gp
+8. Run gp_calculations
+9. Run metric_plotting
