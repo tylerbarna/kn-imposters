@@ -4,9 +4,11 @@ steps when adding a new object for rapid analysis
 2. Create folder in data/ with name of object
 3. Add csv file to folder. Must have obj_id, mjd, mag, mag_err, lim_mag, snr (also change filters of sdss and atlas to ztf if relevant). also define type
 4. Add exception to on_gp to read in specific csv and update candidateEval import
-5. Run on_gp
-6. Add cutoff to cut_data cell in downsampling_gp
-7. update gp_rise_fade_stats 
+5. update gp_rise_fade_stats 
+6. Run on_gp
+7. Add cutoff to cut_data cell in downsampling_gp
 8. Run downsampling_gp
-9. Run gp_calculations
-10. Run metric_plotting
+9. Update categories in gp_calculations to include new object and update as needed
+10. Run gp_calculations
+11. Update metric_plotting style to include new object styling as needed
+12. Run metric_plotting

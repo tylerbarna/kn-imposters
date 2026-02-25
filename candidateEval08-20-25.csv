@@ -193,4 +193,4 @@ ZTF24aascytf,0.038,II,y,y,y,y,y,60476-60477.3,60477.1-60479.5,60476-60477.4,6047
 ZTF24abvevzs,0.035,IIb,y,y,y,y,n,60646-60649,60648-60655,60646-60649,60648-60655,,,5,,https://www.wis-tns.org/object/2024adec
 AT2017gfo,0.00984,Kilonova,n,y,n,y,y,,57980-57993,,57980-57993,,57980-57993,5,using panstarrs as ztf observations,https://www.wis-tns.org/object/2017gfo
 ZTF25abjmnps,0.0848,AT2025ulz,m,m,m,m,m,,,,,,,5,taking sdss as ztf and using ztf,
-ZTF26aabnrcz,0.19,ZTF26aabnrcz,m,m,m,m,m,,,,,,,5,taking sdss as ztf and using ztf,
+ZTF25aceeneu,0.0333,ZTF25aceeneu,m,m,m,m,m,,,,,,,5,taking sdss as ztf and using ztf,
