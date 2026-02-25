@@ -6,6 +6,7 @@ steps when adding a new object for rapid analysis
 4. Add exception to on_gp to read in specific csv and update candidateEval import
 5. Run on_gp
 6. Add cutoff to cut_data cell in downsampling_gp
-7. Run downsampling_gp
-8. Run gp_calculations
-9. Run metric_plotting
+7. update gp_rise_fade_stats 
+8. Run downsampling_gp
+9. Run gp_calculations
+10. Run metric_plotting
